@@ -1,7 +1,9 @@
+# Grab pictures of cylinders in bing for machine learning, Need to add cookies and user-agent. The picture is saved in the root directory in 'i.jpeg' format
+
 import requests
 import bs4
 
-count = 20
+count = 20 #number of pictures you need
 searchName = 'cylinder'
 url="https://cn.bing.com/images/async?q="+searchName+"&first=12&count="+str(count)+"&cw=1177&ch=729&relp=35&tsc=ImageHoverTitle&datsrc=I&layout=RowBased&mmasync=1"
 headers = {
