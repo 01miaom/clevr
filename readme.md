@@ -3,7 +3,6 @@
 
 The captcha geometry recognition model based on yolo can currently only recognize geometry types such as cylinders, spheres, cones, cubes, etc. If you need to recognize more types of geometry such as numbers and letters, you can use this model as a pre-training model to retrain.
 
-
 ```python
 from imageai.Detection.Custom import CustomObjectDetection
 
@@ -35,5 +34,5 @@ https://github.com/OlafenwaMoses/ImageAI/blob/master/imageai/Detection/Custom/CU
 
 ## Credits
 
-open-sorce: https://github.com/tzutalin/labelImg
-open-sorce: https://github.com/OlafenwaMoses/ImageAI
+- open-sorce: https://github.com/tzutalin/labelImg
+- open-sorce: https://github.com/OlafenwaMoses/ImageAI
