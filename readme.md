@@ -5,7 +5,7 @@ The captcha geometry recognition model based on yolo can currently only recogniz
 
 ## Use this model
 
-Use this model to download the h5 model and detection_config.json, and place these two files in the same folder as the image and script, then run the following code:
+Download the ```.h5``` model and ```detection_config.json```, and place these two files in the same folder as the image and script, then run the following code in script:
 
 ```python
 from imageai.Detection.Custom import CustomObjectDetection
