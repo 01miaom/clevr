@@ -6,7 +6,7 @@ The captcha geometry recognition model based on yolo can currently only recogniz
 
 ## Use this model
 
-Download the ```.h5``` model and ```detection_config.json```[in here]("https://github.com/01miaom/clevr/releases"), and place these two files in the same folder as the image and script, then run the following code in script:
+Download the ```.h5``` model and ```detection_config.json```[in here](https://github.com/01miaom/clevr/releases), and place these two files in the same folder as the image and script, then run the following code in script:
 
 ```python
 import cv2
