@@ -143,5 +143,5 @@ https://github.com/OlafenwaMoses/ImageAI/blob/master/imageai/Detection/Custom/CU
 
 ## Credits
 
-- open-sorce: https://github.com/tzutalin/labelImg
-- open-sorce: https://github.com/OlafenwaMoses/ImageAI
+- open-source: https://github.com/tzutalin/labelImg
+- open-source: https://github.com/OlafenwaMoses/ImageAI
